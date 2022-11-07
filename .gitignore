@@ -4,3 +4,5 @@
 /Semantic_Segmentation_Dataset/
 /test/
 *.zip
+environment.yml
+model.png

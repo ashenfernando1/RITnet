@@ -1,4 +1,4 @@
-name: base
+name: RITNET
 channels:
   - anaconda
   - menpo
